@@ -1,0 +1,318 @@
+{
+  "account": "friendshipinmotion",
+  "url": "https://instagram.com/friendshipinmotion",
+  "followers": 12,
+  "following": 18,
+  "bio": [
+    "hot takes and fire fits",
+    "two friends navigating life in their 30s",
+    "trying to get a brand to send us some pants"
+  ],
+  "title": "friendship in motion",
+  "subtitle": "hot takes and fire fits",
+  "thesis": {
+    "follows": 18,
+    "lanes": 4,
+    "silhouettes": 2
+  },
+  "source": "source: @friendshipinmotion following + feed, 3 sep 2026. for agents. not a shop.",
+  "purpose": "Static lookbook so another AI agent can open one URL and dress from it. Not a shop, startup, CMS, auth, cart, or chat widget.",
+  "follows": {
+    "fashion": [
+      { "handle": "willhalbert", "note": "heritage americana; white tank + high-waist denim; editorial field-catalog" },
+      { "handle": "_jonathankirby", "note": "north star outfits-as-life grid; tucked olive; tank-and-denim" },
+      { "handle": "_zachmcnally", "note": "quiet studio / wide trousers NYC" },
+      { "handle": "edgyalbert", "note": "vintage americana; loafers + socks; tucked olive" },
+      { "handle": "william_ellery", "note": "field-kit brand; chore, rugby, vest, expedition catalog" },
+      { "handle": "rkzuk", "note": "Pitti / editorial menswear photography; look don't shop" },
+      { "handle": "vmansea", "note": "magazine editorial; steal lighting and proportion only" }
+    ],
+    "hamza": [
+      { "handle": "abouammz", "note": "Hamza north star; utility silhouette" }
+    ],
+    "friends": [
+      { "handle": "akiffpremjee", "note": "friend; closet this board maps to" },
+      { "handle": "macloafe", "note": "friend" },
+      { "handle": "bthomps.n", "note": "friend" },
+      { "handle": "tomcheema", "note": "friend" },
+      { "handle": "efe.efeturi", "note": "friend" },
+      { "handle": "therealprofessorx", "note": "friend" },
+      { "handle": "drewjoiner_", "note": "friend" },
+      { "handle": "jonsjawns", "note": "friend" },
+      { "handle": "itsjrue", "note": "friend" }
+    ],
+    "not_fashion": [
+      { "handle": "therapynotebooks", "note": "not fashion; do not dress from this account" }
+    ]
+  },
+  "lanes": [
+    {
+      "id": "heritage-americana",
+      "number": "01",
+      "name": "Heritage americana / tank-and-denim",
+      "plain": "tank and denim",
+      "handles": ["willhalbert", "edgyalbert", "_jonathankirby"],
+      "items": [
+        "white tank or tucked olive shirt",
+        "high-waist denim or cargo",
+        "denim jacket",
+        "bandana or cap",
+        "loafers + socks or black converse"
+      ],
+      "palette": ["white", "indigo", "olive", "cream", "black", "one red accent"],
+      "closet": "Maps to ivy/pleat (Siena) + light-wash Levis.",
+      "images": [
+        "/looks/acct-willhalbert.jpg",
+        "/looks/acct-_jonathankirby.jpg",
+        "/looks/acct-edgyalbert.jpg",
+        "/looks/feed-01.jpg"
+      ]
+    },
+    {
+      "id": "quiet-studio",
+      "number": "02",
+      "name": "Quiet studio tailoring",
+      "plain": "wide trousers, boxy tee",
+      "handles": ["_zachmcnally"],
+      "feed_handles": ["unionhallny", "kai.baker26", "rami.frn_"],
+      "items": [
+        "boxy white tee or henley",
+        "wide black or tan pleats",
+        "black loafers"
+      ],
+      "palette": ["white", "cream", "tan", "black"],
+      "closet": "London default: Siena + tucked tee + G.H. Bass Berkeley.",
+      "images": [
+        "/looks/acct-_zachmcnally.jpg",
+        "/looks/feed-06.jpg",
+        "/looks/feed-08.jpg",
+        "/looks/feed-05.jpg"
+      ]
+    },
+    {
+      "id": "field-kit",
+      "number": "03",
+      "name": "Field-kit / Hamza utility",
+      "plain": "chore, rugby, vest",
+      "handles": ["william_ellery", "abouammz"],
+      "items": [
+        "chore coat",
+        "rugby",
+        "vest",
+        "linen worn open",
+        "khaki / olive",
+        "clog or trail shoe"
+      ],
+      "palette": ["olive", "khaki", "tan", "navy", "burgundy", "charcoal"],
+      "closet": "Maps to Levis / khaki / gray linen + clog / samba / Salomon. Not loafers on this silhouette.",
+      "images": [
+        "/looks/acct-william_ellery.jpg",
+        "/looks/feed-03.jpg",
+        "/looks/profile-outfits-2.jpg"
+      ]
+    },
+    {
+      "id": "magazine",
+      "number": "04",
+      "name": "Magazine / editorial",
+      "plain": "look don't shop",
+      "handles": ["vmansea", "rkzuk"],
+      "items": [
+        "steal lighting",
+        "steal proportion",
+        "do not shop the fit"
+      ],
+      "palette": ["ink", "warm paper", "whatever the plate needs"],
+      "closet": "Look don't shop. Lighting and proportion only — not a buy list.",
+      "images": [
+        "/looks/acct-rkzuk.jpg",
+        "/looks/acct-vmansea.jpg"
+      ]
+    }
+  ],
+  "silhouettes": [
+    {
+      "id": "ivy-pleat",
+      "name": "ivy / pleat",
+      "pants": "Siena or black Uniqlo",
+      "top": "full tuck",
+      "finish": "belt, cuff",
+      "shoes": "Berkeley or Samba"
+    },
+    {
+      "id": "hamza-utility",
+      "name": "hamza utility",
+      "pants": "Levis / khaki / gray linen",
+      "top": "tee untucked or linen open",
+      "finish": "no loafers on this silhouette",
+      "shoes": "clog / samba / Salomon"
+    }
+  ],
+  "feed": {
+    "copy": [
+      {
+        "id": "unionhallny-hero",
+        "handle": "unionhallny",
+        "verdict": "COPY",
+        "hero": true,
+        "note": "boxy white tee, tan pleats, black loafers, white socks",
+        "image": "/looks/feed-06.jpg",
+        "lane": "quiet-studio"
+      },
+      {
+        "id": "kirby-olive-polo",
+        "handle": "_jonathankirby",
+        "verdict": "COPY",
+        "note": "dark olive polo tucked into pale straight jeans + burgundy belt",
+        "image": "/looks/feed-01.jpg",
+        "lane": "heritage-americana"
+      },
+      {
+        "id": "kai-henley",
+        "handle": "kai.baker26",
+        "verdict": "COPY",
+        "note": "white henley + wide black pleats + glasses",
+        "image": "/looks/feed-08.jpg",
+        "lane": "quiet-studio"
+      },
+      {
+        "id": "emmygirl-socks",
+        "handle": "its_emmygirl",
+        "verdict": "COPY",
+        "note": "loafer + sock study — a sock can transform the outfit",
+        "image": "/looks/feed-11.jpg",
+        "lane": "quiet-studio"
+      },
+      {
+        "id": "kirby-blazer",
+        "handle": "_jonathankirby",
+        "verdict": "COPY",
+        "note": "olive-brown blazer + white tee + black trousers",
+        "image": "/looks/feed-05.jpg",
+        "lane": "quiet-studio"
+      },
+      {
+        "id": "chore-overshirt",
+        "handle": "dadsgottadad",
+        "verdict": "COPY",
+        "note": "striped chore overshirt, utility",
+        "image": "/looks/feed-03.jpg",
+        "lane": "field-kit"
+      },
+      {
+        "id": "imdanielsimmons-taupe",
+        "handle": "imdanielsimmons",
+        "verdict": "COPY",
+        "note": "taupe overshirt",
+        "image": null,
+        "lane": "field-kit"
+      },
+      {
+        "id": "rami-wide-pleats",
+        "handle": "rami.frn_",
+        "verdict": "COPY",
+        "note": "wide black pleats",
+        "image": null,
+        "lane": "quiet-studio"
+      },
+      {
+        "id": "kirby-checked-overshirt",
+        "handle": "_jonathankirby",
+        "verdict": "COPY",
+        "note": "checked overshirt",
+        "image": null,
+        "lane": "heritage-americana"
+      },
+      {
+        "id": "hamajineo-open-knit",
+        "handle": "hamajineo",
+        "verdict": "COPY",
+        "note": "open-knit",
+        "image": null,
+        "lane": "field-kit"
+      }
+    ],
+    "skip": [
+      {
+        "id": "steph-athletic-tank",
+        "handle": "step_by__steph",
+        "verdict": "SKIP",
+        "note": "athletic tank"
+      },
+      {
+        "id": "arbab-ceremonial-red",
+        "handle": "arbab.n.khan",
+        "verdict": "SKIP",
+        "note": "ceremonial red"
+      },
+      {
+        "id": "blvck-sam-leather",
+        "handle": "blvck.sam",
+        "verdict": "SKIP",
+        "note": "leather + red cap — skip unless asked"
+      }
+    ]
+  },
+  "rules": {
+    "palette": {
+      "closed": ["white", "tan", "black", "navy", "brown", "khaki", "gray", "light-wash denim"],
+      "accent_only": "forest green linen",
+      "no": "loud color"
+    },
+    "skip": [
+      "tan-on-khaki",
+      "cocoa merino-on-Siena",
+      "Salomon-on-Siena",
+      "running shoes on pleats",
+      "baggy tee with full pants"
+    ],
+    "mix_and_match": "every new buy works with ≥3 pants",
+    "sourcing": ["Uniqlo basics", "resale character"],
+    "laundry": "wash-and-fold, not in-unit",
+    "places": ["Park Slope", "Chelsea", "Bellevue"],
+    "shoe_size": "9.5 D",
+    "hospital_shoe": "chunky max-cushion all-black, no Hoka",
+    "do_not_use_on_siena_or_london": "navy/yellow NB 1080s",
+    "do_not_invent": ["sizes beyond 9.5 D / 34x32 / belt 36", "budget", "full wardrobe"]
+  },
+  "closet": {
+    "owned": [
+      "Uniqlo baggy tees white + light tan",
+      "Uniqlo black cotton pants",
+      "Uniqlo women's baggy pants",
+      "Uniqlo Japanese linen short-sleeve light forest green",
+      "light-wash Levis",
+      "khaki",
+      "gray linen pant",
+      "sambas B/W",
+      "garden clogs",
+      "all-black Salomons",
+      "navy/yellow 1080s",
+      "Depop Polo Siena 34x32 ordered"
+    ],
+    "buys": [
+      "Uniqlo black tee",
+      "Madewell pointed silver-tip belt 36",
+      "navy merino",
+      "G.H. Bass Berkeley US 9",
+      "Paynter sage chore preorder Nov"
+    ]
+  },
+  "images": {
+    "feed-06.jpg": { "handle": "unionhallny", "use": "HERO COPY", "note": "boxy white tee, tan pleats, black loafers, white socks" },
+    "feed-01.jpg": { "handle": "_jonathankirby", "use": "COPY", "note": "dark olive polo tucked into pale straight jeans + burgundy belt" },
+    "feed-08.jpg": { "handle": "kai.baker26", "use": "COPY", "note": "white henley + wide black pleats + glasses" },
+    "feed-11.jpg": { "handle": "its_emmygirl", "use": "COPY", "note": "loafer + sock study" },
+    "feed-05.jpg": { "handle": "_jonathankirby", "use": "COPY", "note": "olive-brown blazer + white tee + black trousers" },
+    "feed-03.jpg": { "handle": "dadsgottadad", "use": "COPY", "note": "striped chore overshirt, utility" },
+    "acct-willhalbert.jpg": { "handle": "willhalbert", "use": "LANE", "note": "heritage americana grid" },
+    "acct-_jonathankirby.jpg": { "handle": "_jonathankirby", "use": "LANE", "note": "outfits-as-life grid" },
+    "acct-edgyalbert.jpg": { "handle": "edgyalbert", "use": "LANE", "note": "vintage americana, loafers+socks" },
+    "acct-_zachmcnally.jpg": { "handle": "_zachmcnally", "use": "LANE", "note": "quiet studio / wide trousers nyc" },
+    "acct-william_ellery.jpg": { "handle": "william_ellery", "use": "LANE", "note": "field-kit brand" },
+    "acct-rkzuk.jpg": { "handle": "rkzuk", "use": "LANE", "note": "pitti / editorial" },
+    "acct-vmansea.jpg": { "handle": "vmansea", "use": "LANE", "note": "magazine editorial look-don't-shop" },
+    "profile-outfits.jpg": { "handle": "friendshipinmotion", "use": "OWN GRID", "note": "puffer, glasses, friends" },
+    "profile-outfits-2.jpg": { "handle": "friendshipinmotion", "use": "OWN GRID", "note": "cable vest + olive trousers + puffer" }
+  }
+}
