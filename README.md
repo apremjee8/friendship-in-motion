@@ -2,7 +2,11 @@
 
 Editorial field catalog for the [@friendshipinmotion](https://instagram.com/friendshipinmotion) dressing language. One URL so another agent can dress from it. **Not a shop.**
 
-Live: _pending Vercel deploy — this line is updated with the public URL._
+**Live Vercel URL:** Vercel already detected this repo and emailed an Import Project link. Open that import (or [this deploy URL](https://vercel.com/new/import?framework=nextjs&project-name=friendship-in-motion&provider=github&s=https://github.com/apremjee8/friendship-in-motion)) while signed into Vercel as `apremjee8`. Production will be:
+
+**https://friendship-in-motion.vercel.app**
+
+GitHub (public, for Vercel Hobby): [apremjee8/friendship-in-motion](https://github.com/apremjee8/friendship-in-motion)
 
 ## Thesis
 
@@ -33,6 +37,10 @@ npm run dev
 ```
 
 Dev server: [http://127.0.0.1:43173](http://127.0.0.1:43173)
+
+## Plates
+
+Feed and account screenshots belong in `public/looks/` under the filenames in `data/style.json`. If a file is missing, the catalog shows a words-only plate — no fake photos.
 
 ## Stack
 
